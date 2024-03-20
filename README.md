@@ -7,7 +7,7 @@ programme at the University of Cyprus for the Spring semester of 2023-2024.
 ## Course Description
 
 This repository contains the Computer Vision assignments' materials for the CS607 Visual Computing course. The complete course's materials
-are available at the course's [website](hhttps://moodle.cs.ucy.ac.cy/course/view.php?id=39). Computer Vision is a 
+are available at the course's [website](https://moodle.cs.ucy.ac.cy/course/view.php?id=39). Computer Vision is a 
 fascinating field that focuses on teaching machines to interpret and understand visual information from the world. 
 In this course, you'll delve into the foundations of computer vision, learn about various algorithms, and apply your 
 knowledge through practical lab assignments.
